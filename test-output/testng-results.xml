@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11997" started-at="2021-09-02T16:15:20 IST" finished-at="2021-09-02T16:15:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11997" started-at="2021-09-02T16:15:20 IST" finished-at="2021-09-02T16:15:32 IST">
+      <class name="testng.PriorityTestNG">
+        <test-method status="PASS" signature="test()[pri:1, instance:testng.PriorityTestNG@6737fd8f]" name="test" duration-ms="1795" started-at="2021-09-02T16:15:20 IST" finished-at="2021-09-02T16:15:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="launchGoogle()[pri:2, instance:testng.PriorityTestNG@6737fd8f]" name="launchGoogle" duration-ms="1869" started-at="2021-09-02T16:15:22 IST" finished-at="2021-09-02T16:15:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchGoogle -->
+        <test-method status="PASS" signature="peformSeachAndClick1stLink()[pri:3, instance:testng.PriorityTestNG@6737fd8f]" name="peformSeachAndClick1stLink" duration-ms="8295" started-at="2021-09-02T16:15:24 IST" finished-at="2021-09-02T16:15:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peformSeachAndClick1stLink -->
+      </class> <!-- testng.PriorityTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
