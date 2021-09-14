@@ -11,7 +11,7 @@ public class PriorityTestNG {
 	 @Test (priority=1)
 		public void test() throws InterruptedException{
 			
-			System.setProperty("webdriver.chrome.driver", "D:\\tools\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "C:\\Users\\HP\\Downloads\\chromedriver_win32 (3)\\chromedriver.exe");
 			 driver = new ChromeDriver();
 			System.out.println("Welcome  to Google...");
 			
